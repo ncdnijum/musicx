@@ -35,7 +35,7 @@
 <br>
 
 <p style="color:yellow;"><i>LOVE YOUR GOD THAN YOUR LIFE.THAN YOU WILL HAPPY</i></p>
-<p>FEEL LIKE HIM:</p><img src="C:\Users\Asus\Downloads\feel\download (1).jpg">
+<p>FEEL LIKE HIM:</p></img src="C:\Users\Asus\Downloads\feel\download (1).jpg">
 
 
 <audio controls autoplay>
